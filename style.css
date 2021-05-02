@@ -15,17 +15,17 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2c2c2c; 
+  background: #2c2c2c;
 }
- 
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #888; 
+  background: #888;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555; 
+  background: #555;
 }
 
 a:hover {
@@ -185,6 +185,16 @@ span {
   padding: 7vh 0 7vh 0;
 }
 
+.container-a h3 {
+  font-size: 2em;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  font-weight: 200;
+  margin: 0;
+  padding: 7vh 0 7vh 0;
+}
+
 .container-a p {
   color: white;
   line-height: 25px;
@@ -215,6 +225,12 @@ span {
 .error {
   font-size: 150px;
   display: inline;
+}
+
+.projectinfo {
+  max-width: 700px;
+  width: 90vw;
+  margin: 0 auto;
 }
 
 .vert-align {
@@ -273,10 +289,10 @@ span {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
-.icon:hover{
+.icon:hover {
   transform: scale(1.5);
   transition: 0.5s cubic-bezier(0.6, 0.03, 0.28, 0.98);
 }
