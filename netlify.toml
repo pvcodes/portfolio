@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/resume"
+  to = "/resume.pdf"
+  status = 301
+  force = true
+
