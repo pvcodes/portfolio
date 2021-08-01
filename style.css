@@ -568,3 +568,28 @@ span {
     left: unset !important;
   }
 }
+
+/* Work Experience Section */
+.work-experience {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 1.5rem;
+}
+.work-experience .work-experience-item {
+  /* border: 1px solid rgb(42, 190, 42); */
+  margin: 2rem;
+  height: auto;
+  width: 40rem;
+  padding: 15px;
+}
+.work-experience .work-experience-item p {
+  margin-top: 3rem;
+}
+
+@media screen and (max-width: 767px) {
+  .work-experience {
+    flex-direction: column;
+  }
+}
