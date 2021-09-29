@@ -4,3 +4,9 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/pvcodes"
+  status = 301
+  force = true
+
