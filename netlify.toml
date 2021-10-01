@@ -10,3 +10,27 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/pvcodes"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mail"
+  to = "mailto:pvcodes@gmail.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/linkedin"
+  to = "https://www.linkedin.com/in/pvcodes"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/links"
+  to = "https://linktr.ee/pvcodes"
+  status = 301
+  force = true
+
