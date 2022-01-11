@@ -640,3 +640,19 @@ only screen and (min-resolution: 2dppx) and (min-width: 1300px) {
 .contant_box_404 {
     margin-top: -50px;
 }
+
+
+/* POPUP STYLES */
+
+#popup {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 80%;
+    background-color: yellow;
+    margin: 0 auto;
+    padding: .5rem 1rem;
+    font-size: 1.3rem;
+    opacity: 1;
+    transition: opacity 2s ease-in;
+}
