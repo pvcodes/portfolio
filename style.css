@@ -301,8 +301,8 @@ span {
 }
 
 .icon:hover {
-    transform: scale(1.5);
-    transition: 0.5s cubic-bezier(0.6, 0.03, 0.28, 0.98);
+    transform: scale(1.25);
+    transition: 0.8s cubic-bezier(0.6, 0.03, 0.28, 0.98);
 }
 
 .icon-container {
