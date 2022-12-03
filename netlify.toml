@@ -1,36 +1,37 @@
-[[redirects]]
-  from = "/resume"
-  to = "/resume.pdf"
-  status = 301
-  force = true
+
+
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.107.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.107.0"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.107.0"
+
+[context.branch-deploy]
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.107.0"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/github"
-  to = "https://github.com/pvcodes"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/twitter"
-  to = "https://twitter.com/pvcodes"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/mail"
-  to = "mailto:pvcodes@gmail.com"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/linkedin"
-  to = "https://www.linkedin.com/in/pvcodes"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/links"
-  to = "https://linktr.ee/pvcodes"
-  status = 301
-  force = true
-
+from = "/npmjs/*"
+to = "/npmjs/"
+status = 200

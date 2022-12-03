@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Pranjal Verma</title>
+    <link>http://www.example.com/archives/</link>
+    <description>Recent content in Archives on Pranjal Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/archives/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About: June 2022</title>
+      <link>http://www.example.com/archives/about_june_2022/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/archives/about_june_2022/</guid>
+      <description>If you&amp;rsquo;re here, it means you&amp;rsquo;re trying to understand a little more about me, so to do it short here is my very concise description. I am a university student attending the course of Bachelor in Computer Application at Integral university (I&amp;rsquo;m currently in my third year). I am a very concise, pragmatic and calm guy &amp;hellip; no other adjectives come to mind. At the moment I don&amp;rsquo;t have a lot of work experience, but I&amp;rsquo;m slowly accumulating it.</description>
+    </item>
+    
+  </channel>
+</rss>

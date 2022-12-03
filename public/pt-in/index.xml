@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pranjal Verma</title>
+    <link>http://www.example.com/pt-in/</link>
+    <description>Recent content on Pranjal Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/pt-in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About: June 2022</title>
+      <link>http://www.example.com/pt-in/archives/about_june_2022/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/archives/about_june_2022/</guid>
+      <description>If you&amp;rsquo;re here, it means you&amp;rsquo;re trying to understand a little more about me, so to do it short here is my very concise description. I am a university student attending the course of Bachelor in Computer Application at Integral university (I&amp;rsquo;m currently in my third year). I am a very concise, pragmatic and calm guy &amp;hellip; no other adjectives come to mind. At the moment I don&amp;rsquo;t have a lot of work experience, but I&amp;rsquo;m slowly accumulating it.</description>
+    </item>
+    
+    <item>
+      <title>Pi Bot</title>
+      <link>http://www.example.com/pt-in/projects/pi_bot/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/projects/pi_bot/</guid>
+      <description>A discord bot based on Python, discord.py and a bunch of API such as codeforces API It&amp;rsquo;s prior aim is to help Competitive Programmer, enhancing their problem solving skills.
+Code</description>
+    </item>
+    
+    <item>
+      <title>Pi Connect</title>
+      <link>http://www.example.com/pt-in/projects/pi_connect/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/projects/pi_connect/</guid>
+      <description>Stack Used : - Python, Flask
+This is a python&amp;rsquo;s flask based app for team/group chats.
+code</description>
+    </item>
+    
+    <item>
+      <title>Pi Wallet</title>
+      <link>http://www.example.com/pt-in/projects/pi_wallet/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/projects/pi_wallet/</guid>
+      <description>Stack Used : - Python, Flask, MongoDB, PyMongo
+Pi Wallet is a open-sourced project for storing your credentials securely.
+code | deployed here</description>
+    </item>
+    
+    <item>
+      <title>Ptorr API</title>
+      <link>http://www.example.com/pt-in/projects/ptorr_api/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/projects/ptorr_api/</guid>
+      <description>Stack Used : - Python, Flask, BeautifulSoup
+Ptorr API is a RESTful API for torrents, which scarpes the torrents from various site and server as an API
+code | deployed here</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/pt-in/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/about/</guid>
+      <description>Edited: Dec 2022
+Hey there! My name is Pranjal Verma. I am currently a postgrad student of Masters of Computer Application (freshman) at Devi Ahilya Vishwavidyalaya, Indore. I&amp;rsquo;ve completed my Bachelor&amp;rsquo;s from Integral University, Lucknow. At the moment I don&amp;rsquo;t have a lot of work experience, but I&amp;rsquo;m slowly accumulating it. Here are my projects and resume.
+SKILLS Link to heading I&amp;rsquo;m familiar with each of the listed skills, even if the main one is C++ and Python.</description>
+    </item>
+    
+    <item>
+      <title>प्रोजेक्ट</title>
+      <link>http://www.example.com/pt-in/project/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/project/</guid>
+      <description>Pi Wallet - Safely store your password with 2 layer encryption.
+Pi Connect - This is a python&amp;rsquo;s flask based app for team/group chats.
+Ptorr API - A RESTful API for torrents
+Pi Bot - A discord bot for competitive programmers. +++</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/pt-in/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/contact/</guid>
+      <description>Send me hello here, or my other social are linked here.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://www.example.com/pt-in/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-in/resume/</guid>
+      <description>Masked Resume PDF
+Pranjal Verma Link to heading +91 XXXXXXXX | xxx[at]gmail[dot]com | linkedin.com/in/pvcodes | github.com/pvcodes
+Education Link to heading Masters in Computer Application [Aug. 2022 – May 2024]
+- Devi Ahilya Vishwavidyalaya, Indore, IN Bachelor in Computer Application [Aug. 2019 – May 2022]
+- Integral University, Lucknow, IN Projects Link to heading Pi Wallet | Python, Flask, MongoDB, PyMongo June 2021 – Present
+Developed a full-stack web application using with Flask and using MongoD</description>
+    </item>
+    
+  </channel>
+</rss>
