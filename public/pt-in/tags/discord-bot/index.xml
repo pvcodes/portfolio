@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>discord bot on Pranjal Verma</title>
-    <link>http://www.example.com/pt-in/tags/discord-bot/</link>
+    <link>/pt-in/tags/discord-bot/</link>
     <description>Recent content in discord bot on Pranjal Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/pt-in/tags/discord-bot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/pt-in/tags/discord-bot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pi Bot</title>
-      <link>http://www.example.com/pt-in/projects/pi_bot/</link>
+      <link>/pt-in/projects/pi_bot/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/pt-in/projects/pi_bot/</guid>
+      <guid>/pt-in/projects/pi_bot/</guid>
       <description>A discord bot based on Python, discord.py and a bunch of API such as codeforces API It&amp;rsquo;s prior aim is to help Competitive Programmer, enhancing their problem solving skills.
 Code</description>
     </item>
     
     <item>
       <title>Pi Connect</title>
-      <link>http://www.example.com/pt-in/projects/pi_connect/</link>
+      <link>/pt-in/projects/pi_connect/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/pt-in/projects/pi_connect/</guid>
+      <guid>/pt-in/projects/pi_connect/</guid>
       <description>Stack Used : - Python, Flask
 This is a python&amp;rsquo;s flask based app for team/group chats.
 code</description>
@@ -30,10 +30,10 @@ code</description>
     
     <item>
       <title>Pi Wallet</title>
-      <link>http://www.example.com/pt-in/projects/pi_wallet/</link>
+      <link>/pt-in/projects/pi_wallet/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/pt-in/projects/pi_wallet/</guid>
+      <guid>/pt-in/projects/pi_wallet/</guid>
       <description>Stack Used : - Python, Flask, MongoDB, PyMongo
 Pi Wallet is a open-sourced project for storing your credentials securely.
 code | deployed here</description>

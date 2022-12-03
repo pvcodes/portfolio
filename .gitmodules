@@ -1,0 +1,6 @@
+[submodule "hugo-coder"]
+	path = hugo-coder
+	url = git@github.com:pvcodes/hugo-coder.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = git@github.com:pvcodes/hugo-coder.git

@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://www.example.com/en/sitemap.xml</loc>
+    <loc>/en/sitemap.xml</loc>
     
       <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://www.example.com/pt-in/sitemap.xml</loc>
+    <loc>/pt-in/sitemap.xml</loc>
     
       <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     

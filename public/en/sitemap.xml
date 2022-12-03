@@ -2,259 +2,259 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/archives/about_june_2022/</loc>
+    <loc>/archives/about_june_2022/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/archives/about_june_2022/"
+                href="/pt-in/archives/about_june_2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/archives/about_june_2022/"
+                href="/archives/about_june_2022/"
                 />
   </url><url>
-    <loc>http://www.example.com/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/archives/"
+                href="/pt-in/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/archives/"
+                href="/archives/"
                 />
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/"
+                href="/pt-in/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/discord-bot/</loc>
+    <loc>/tags/discord-bot/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/tags/discord-bot/"
+                href="/pt-in/tags/discord-bot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/discord-bot/"
+                href="/tags/discord-bot/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/pi_bot/</loc>
+    <loc>/projects/pi_bot/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/projects/pi_bot/"
+                href="/pt-in/projects/pi_bot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/pi_bot/"
+                href="/projects/pi_bot/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/pi_connect/</loc>
+    <loc>/projects/pi_connect/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/projects/pi_connect/"
+                href="/pt-in/projects/pi_connect/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/pi_connect/"
+                href="/projects/pi_connect/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/pi_wallet/</loc>
+    <loc>/projects/pi_wallet/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/projects/pi_wallet/"
+                href="/pt-in/projects/pi_wallet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/pi_wallet/"
+                href="/projects/pi_wallet/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/pi_bot/</loc>
+    <loc>/tags/pi_bot/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/tags/pi_bot/"
+                href="/pt-in/tags/pi_bot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/pi_bot/"
+                href="/tags/pi_bot/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/projects/"
+                href="/pt-in/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="/projects/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/ptorr_api/</loc>
+    <loc>/projects/ptorr_api/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/projects/ptorr_api/"
+                href="/pt-in/projects/ptorr_api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/ptorr_api/"
+                href="/projects/ptorr_api/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/scraping/</loc>
+    <loc>/tags/scraping/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/tags/scraping/"
+                href="/pt-in/tags/scraping/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/scraping/"
+                href="/tags/scraping/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/tags/"
+                href="/pt-in/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/torrent/</loc>
+    <loc>/tags/torrent/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/tags/torrent/"
+                href="/pt-in/tags/torrent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/torrent/"
+                href="/tags/torrent/"
                 />
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/about/"
+                href="/pt-in/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/project/"
+                href="/pt-in/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/project/"
+                href="/project/"
                 />
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/authors/"
+                href="/pt-in/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/categories/"
+                href="/pt-in/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/contact/"
+                href="/pt-in/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/resume/</loc>
+    <loc>/resume/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/resume/"
+                href="/pt-in/resume/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/resume/"
+                href="/resume/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-in"
-                href="http://www.example.com/pt-in/series/"
+                href="/pt-in/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="/series/"
                 />
   </url>
 </urlset>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pranjal Verma</title>
-    <link>http://www.example.com/pt-in/categories/</link>
+    <link>/pt-in/categories/</link>
     <description>Recent content in Categories on Pranjal Verma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/pt-in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/pt-in/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
