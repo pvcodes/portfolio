@@ -12,4 +12,4 @@ author = "Pranjal Verma"
 
  Pi Wallet is a open-sourced project for storing your credentials securely.
 
- [code](https://github.com/pvcodes/pi_wallet) | [deployed here](https://piwallet.herokuapp.com/) 
+ [code](https://github.com/pvcodes/pi_wallet) | [deployed here](https://piwallet.tech/) 

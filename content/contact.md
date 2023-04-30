@@ -6,4 +6,4 @@ author = "Pranjal Verma"
 
 --------------------------------------------
 
-Send me hello [here](mailto:pvcodes@gmail.com), or my other social are linked [here](/).
+Send me hello [here](mailto:pranjalverma0606@gmail.com), or my other social are linked [here](/).

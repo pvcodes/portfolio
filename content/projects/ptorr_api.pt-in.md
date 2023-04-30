@@ -13,4 +13,4 @@ author = "Pranjal Verma"
 
 Ptorr API is a RESTful API for torrents, which scarpes the torrents from various site and server as an API
 
-[code](https://github/pvcodes/ptorr-api) | [deployed here](https://ptorr-api.herokuapp.com/)
+[code](https://github/pvcodes/ptorr-api)
