@@ -109,6 +109,7 @@ name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/pvcodes/"
+target = "_blank"
 
 # [[params.social]]
 # name = "Gitlab"
@@ -121,12 +122,15 @@ name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 2
 url = "https://twitter.com/pvcodes/"
+target = "_blank"
+
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 3
 url = "https://www.linkedin.com/in/pvcodes/"
+target = "_blank"
 
 # [[params.social]]
 # name = "Medium"
@@ -143,13 +147,13 @@ url = "https://www.linkedin.com/in/pvcodes/"
 # type = "application/rss+xml"
 
 [[params.social]]
-name = "Codeforces"
+name = "Leetcode"
 icon = "fa fa-2x fa-code"
 weight = 6
-url = "https://codeforces.com/profile/pvcodes"
+url = "https://leetcode.com/pvcodes"
 rel = "alternate"
 type = "application/rss+xml"
-
+target = "_blank"
 
 
 [languages.en]
