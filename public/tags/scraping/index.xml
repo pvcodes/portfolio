@@ -15,7 +15,7 @@
       <guid>/projects/ptorr_api/</guid>
       <description>Stack Used : - Python, Flask, BeautifulSoup
 Ptorr API is a RESTful API for torrents, which scarpes the torrents from various site and server as an API
-code | deployed here</description>
+code</description>
     </item>
     
   </channel>

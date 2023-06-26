@@ -56,7 +56,7 @@ code | deployed here</description>
       <guid>/projects/ptorr_api/</guid>
       <description>Stack Used : - Python, Flask, BeautifulSoup
 Ptorr API is a RESTful API for torrents, which scarpes the torrents from various site and server as an API
-code | deployed here</description>
+code</description>
     </item>
     
     <item>
@@ -80,6 +80,15 @@ SKILLS Link to heading I&amp;rsquo;m familiar with each of the listed skills, ev
 Pi Connect - This is a python&amp;rsquo;s flask based app for team/group chats.
 Ptorr API - A RESTful API for torrents
 Pi Bot - A discord bot for competitive programmers.</description>
+    </item>
+    
+    <item>
+      <title>-</title>
+      <link>/priya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/priya/</guid>
+      <description>PRIYA</description>
     </item>
     
     <item>
