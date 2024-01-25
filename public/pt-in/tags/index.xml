@@ -5,43 +5,36 @@
     <link>/pt-in/tags/</link>
     <description>Recent content in Tags on Pranjal Verma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/pt-in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-in</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/pt-in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>discord bot</title>
       <link>/pt-in/tags/discord-bot/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/pt-in/tags/discord-bot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>pi_bot</title>
       <link>/pt-in/tags/pi_bot/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/pt-in/tags/pi_bot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>scraping</title>
       <link>/pt-in/tags/scraping/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/pt-in/tags/scraping/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>torrent</title>
       <link>/pt-in/tags/torrent/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/pt-in/tags/torrent/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

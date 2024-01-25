@@ -8,6 +8,8 @@ author = "Pranjal Verma"
 
 --------------------------------------------
 
+- [Comment Toxicity Classification]({{< ref "projects/comment_toxicity_classification.md" >}}) -  *A Classification Model, to predict toxicity.* 
+
 - [Pi Wallet]({{< ref "projects/pi_wallet.md" >}}) -  *Safely store your password with 2 layer encryption.* 
 
 - [Pi Connect]({{< ref "projects/pi_connect.md" >}}) -  *This is a python's flask based app for team/group chats.* 
@@ -16,3 +18,5 @@ author = "Pranjal Verma"
 
 
 - [Pi Bot]({{< ref "projects/pi_bot.md" >}}) - *A discord bot for competitive programmers.* 
+
+for more visit my [github](https://github.com/pvcodes)
