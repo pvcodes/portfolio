@@ -16,9 +16,9 @@ author = "Pranjal Verma"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Pranjal Verma's personal website"
 keywords = "blog,developer,personal"
-info = ["A Fellow Developer", "Post Grad Student"]
-avatarURL = "images/avatar.jpg"
-favicon_32= "img/me_blurred_icon.png"
+info = ["A Fellow Developer", "Post  Grad Student"]
+avatarURL = "images/avatar.png"
+favicon_32 = "/img/favicon32x32.png"
 # gravatar = "pranjalverma0606@gmail.com"
 dateFormat = "January 2, 2006"
 since = 2019
