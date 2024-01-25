@@ -4,7 +4,7 @@ aliases = ["resume","portfolio"]
 author = "Pranjal Verma"
 +++
 
-[linkedin](https://linkedin.com/in/pvcodes) | [github](https://github.com/pvcodes) | [Resume PDF](/docs/pranjal_verma_resume.pdf)
+[linkedin](https://linkedin.com/in/pvcodes) | [github](https://github.com/pvcodes) | [Resume PDF](/misc/pranjal_verma_resume.pdf)
 
 ---
 
