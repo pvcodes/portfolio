@@ -1,8 +1,8 @@
 +++
 title = "Projects"
-description = "Hugo, the world's fastest framework for building websites" 
+description = "Projects I made" 
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["projects"]
 author = "Pranjal Verma"
 +++
 

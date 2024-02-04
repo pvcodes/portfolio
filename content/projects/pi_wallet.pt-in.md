@@ -1,15 +1,15 @@
 +++
 title = "Pi Wallet"
 date = "2019-03-05"
-description = " Safely store your password with 2 layer encryption. "
-tags = [ "pi_bot", "discord bot"]
-author = "Pranjal Verma"
+description = "अपने पासवर्ड को 2 स्तरीय एन्क्रिप्शन के साथ सुरक्षित रूप से स्टोर करें।"
+tags = [ "पाई बॉट", "डिस्कोर्ड बॉट"]
+author = "प्रांजल वर्मा"
 +++
 
 ---------------------------------
 
-**Stack Used** : - *Python, Flask, MongoDB, PyMongo*
+**उपयोग किया गया स्टैक** : - *पाइथन, फ्लास्क, मोंगोडीबी, पाइमोंगो*
 
- Pi Wallet is a open-sourced project for storing your credentials securely.
+Pi Wallet आपके क्रेडेंशियल्स को सुरक्षित रूप से स्टोर करने के लिए एक ओपन-सोर्स्ड प्रोजेक्ट है।
 
- [code](https://github.com/pvcodes/pi_wallet) | [deployed here](https://piwallet.tech/) 
+[code](https://github.com/pvcodes/pi_wallet) | [यहाँ डिप्लॉय किया गया है](https://piwallet.tech/)

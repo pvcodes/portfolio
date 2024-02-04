@@ -165,9 +165,9 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Archives"
+name = "Blogs"
 weight = 2
-url = "archives/"
+url = "https://blog.pvcodes.me"
 
 [[languages.en.menu.main]]
 name = "Projects"
@@ -200,9 +200,9 @@ weight = 1
 url = "about/"
 
 [[languages.pt-in.menu.main]]
-name = "संग्रहालय"
+name = "ब्लॉग"
 weight = 2
-url = "archives/"
+url = "https://blog.pvcodes.me"
 
 [[languages.pt-in.menu.main]]
 name = "प्रोजेक्ट"
@@ -210,7 +210,7 @@ weight = 3
 url = "project/"
 
 [[languages.pt-in.menu.main]]
-name = "विवरण"
+name = "रिज्यूमे "
 weight = 4
 url = "resume/"
 

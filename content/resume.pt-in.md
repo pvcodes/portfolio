@@ -1,56 +1,44 @@
 +++
-title = "Resume"
-aliases = ["resume","portfolio"]
-author = "Pranjal Verma"
+title = "रिज्यूमे"
+aliases = ["रिज्यूमे","पोर्टफोलियो"]
+author = "प्रांजल वर्मा"
 +++
 
-[Masked Resume PDF](/docs/pranjal_verma_masked_resume.pdf)
+[लिंक्डइन](https://linkedin.com/in/pvcodes) | [गिटहब](https://github.com/pvcodes) | [रिज्यूमे पीडीएफ](/misc/pranjal_verma_resume.pdf)
 
---------------------------------------------
+---
 
+### एक संक्षिप्त सारांश
 
-## Pranjal Verma
+मैं प्रांजल, एक डेवलपर जो चीजों को बनाने में रुचि रखता हूँ। **देवी अहिल्या विश्वविद्यालय** से *कंप्यूटर एप्लिकेशन की मास्टर्स* और **इंटीग्रल विश्वविद्यालय** से बैचलर्स किया है, मैं _सी/सी++_, _पायथन_, _जावास्क्रिप्ट_ और वेब तकनीकियों जैसे React.js और Flask में विशेषज्ञ हूँ। चलो साथ में कुछ अद्भुत बनाते हैं!
 
- +91 XXXXXXXX   | xxx[at]gmail[dot]com | [linkedin.com/in/pvcodes](https://linkedin.com/in/pvcodes) | [github.com/pvcodes](https://github.com/pvcodes)
+### प्रोजेक्ट्स
 
-### Education
- **Masters in Computer Application** [Aug. 2022 – May 2024] 
+1.  [**टिप्पणी विषादता वर्गीकरण**](/projects/comment_toxicity_classification/) | Tensorflow, PyTorch
+    मई 2023 – वर्तमान
 
-    - Devi Ahilya Vishwavidyalaya, Indore, IN
+    -   एक डीप लर्निंग मॉडल जो वाक्यों में विषादता के तत्वों का पता लगाता है।
 
+2.  [**पाई वॉलेट**](/projects/pi_wallet/) | Python, Flask, MongoDB, PyMongo
+    जून 2021 – वर्तमान
 
+    -   Flask का उपयोग करके पूर्ण स्टैक वेब एप्लिकेशन विकसित किया गया
+    -   उपयोगकर्ता प्रमाणीकरण का कार्यान्वयन किया गया
+    -   क्रिप्टोग्राफी पुस्तकालय के FERNET मॉड्यूल का उपयोग उपयोगकर्ता डेटा के एन्क्रिप्शन और डिक्रिप्शन के लिए किया गया (उनके लॉगिन पासवर्ड, उनके द्वारा वेबऐप में सहेजी गई डेटा)
 
->
-**Bachelor in Computer Application** [Aug. 2019 – May 2022]
+3.  [**पाई बॉट**](/projects/pi_bot) | Python, Discord.py, Google Calander API, Codeforces API
+    मई 2021 – वर्तमान
 
-    - Integral University, Lucknow, IN
+    -   कॉम्पिटिटिव प्रोग्रामर्स की मदद के लिए एक डिस्कोर्ड बॉट विकसित किया गया - प्रमुख विशेषताएं: कोडिंग प्रतियोगिता होने से 1 घंटा पहले याद दिलाता है, आपको एक वांछित कठिनाई स्तर की समस्या का सुझाव देता है, आदि
 
+---
 
-### Projects
-1. **Pi Wallet** | Python, Flask, MongoDB, PyMongo
- June 2021 – Present
-    - Developed a full-stack web application using with Flask and using MongoD
+## तकनीकी कौशल
 
-    - Implemented User Authentication
-    - Used FERNET module of Crpytography library for encrpytion and decryption of user data (their login passwords,
-data they save in the webapp)
+**भाषाएँ**: सी/सी++, पायथन, SQL (पोस्टग्रेस), जावास्क्रिप्ट, HTML/CSS
 
-2. **Pi Bot** | Python, Discord.py, Google Calander API, Codeforces API
- May 2021 – Present
-    - Developed a discord bot to help Competitive Programmers
-    - Key Features: Reminds 1 hour before a coding contest happens, suggests you a problem of desired difficulty level,
-etc
+**फ्रेमवर्क**: React.js, नोड.जेएस, फ्लास्क, हुगो
 
-3. **This Website** | HTML/CSS, Javascript, Hugo(A framework written in Go)
- April 2021 – Present
-    - Developed my portfolio using Hugo!
+**डेवलपर उपकरण**: गिट, डॉकर, गूगल क्लाउड प्लेटफ़ॉर्म, वीएस कोड
 
------------------------------------
-## Technical Skills
-**Languages**: C/C++, Python, SQL (Postgres), JavaScript, HTML/CSS
-
-**Frameworks**: Vue.js, Node.js, Flask, Hugo
-
-**Developer Tools**: Git, Docker, Google Cloud Platform, VS Code
-
-**Libraries**: Pandas, NumPy, Matplotlib, Discord.py, PyMongo
+**पुस्तकालयें**: पांडास, नंपाई, मैटप्लॉटलिब, डिस्कोर्ड.पाई, पायट्री

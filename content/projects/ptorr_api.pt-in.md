@@ -1,16 +1,15 @@
 +++
 title = "Ptorr API"
 date = "2019-03-05"
-description = "A RESTful API for torrents"
-tags = [ "torrent", "scraping"]
-author = "Pranjal Verma"
+description = "टोरेंट्स के लिए एक RESTful एपीआई"
+tags = [ "टोरेंट", "स्क्रेपिंग"]
+author = "प्रांजल वर्मा"
 +++
 
 ---------------------------------
 
-**Stack Used** : - *Python, Flask, BeautifulSoup*
+**उपयोग किया गया स्टैक** : - *पाइथन, फ्लास्क, ब्यूटिफुलसूप*
 
-
-Ptorr API is a RESTful API for torrents, which scarpes the torrents from various site and server as an API
+Ptorr API टोरेंट्स के लिए एक RESTful एपीआई है, जो विभिन्न साइटों से टोरेंट्स को स्क्रेप करता है और एक एपीआई के रूप में सर्वर करता है।
 
 [code](https://github/pvcodes/ptorr-api)

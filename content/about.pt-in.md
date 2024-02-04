@@ -8,19 +8,20 @@ author = "Pranjal Verma"
 --------------------------------------------
 
 
-**Edited: Dec 2022** 
+**संपादित: दिसंबर 2022**
 
-Hey there!
-My name is Pranjal Verma. I am currently a postgrad student of **Masters of Computer Application** (freshman) at [**Devi Ahilya Vishwavidyalaya, Indore**](http://www.scs.dauniv.ac.in/). I've completed my **Bachelor's** from **Integral University, Lucknow**. At the moment I don't have a lot of work experience, but I'm slowly accumulating it. Here are my [projects]({{<ref "project.md">}}) and [resume]({{<ref "resume.md">}}).
+नमस्ते!
+मेरा नाम प्रांजल वर्मा है। मैं वर्तमान में **देवी अहिल्या विश्वविद्यालय**, इंदौर में **कंप्यूटर एप्लिकेशन की मास्टर्स** (फ्रेशमैन) का छात्र हूँ। मैंने अपनी बैचलर्स की शिक्षा **इंटीग्रल विश्वविद्यालय, लखनऊ** से पूरी की है। वर्तमान में मेरे पास काम का अधिक अनुभव नहीं है, लेकिन मैं धीरे-धीरे इसे जमा कर रहा हूँ। यहाँ मेरे [प्रोजेक्ट्स]({{<ref "project.md">}}) और [रिज्यूमे]({{<ref "resume.md">}}) हैं।
 
-## SKILLS
+## कौशल
 
-I'm familiar with each of the listed skills, even if the main one is **C++** and **Python**. As you can see for now I am specialized in programming, therefore I am a *developer*. And also, enhancing my problem solving skills day by day.
+मैं हर एक लिस्ट किए गए कौशल से परिचित हूँ, भले ही मुख्य कौशल सी++ और पायथन है। जैसा कि आप देख सकते हैं कि अभी मैं प्रोग्रामिंग में विशेषज्ञ हूँ, इसलिए मैं डेवलपर हूँ। और साथ ही, दिन प्रतिदिन अपने समस्या समाधान कौशल को बढ़ावा दे रहा हूँ।
 
-- ### Languages
+- ### भाषाएँ
 
-> **Python, C++, JavaScript, SQL, HTML5 / CSS3**
+> **पायथन, सी++, जावास्क्रिप्ट, एसक्यूएल, एचटीएमएल 5 / सीएसएस 3**
 
-- ### Frameworks
+- ### फ्रेमवर्क
 
-> **Vue.js, Node.js, Flask**
+> **व्यू.जेएस, नोड.जेएस, फ्लास्क**
+

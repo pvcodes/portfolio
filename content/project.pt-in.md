@@ -1,21 +1,23 @@
 +++
 title = "प्रोजेक्ट"
+description = "मैंने बनाए गए प्रोजेक्ट"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Pranjal Verma"
+aliases = ["प्रोजेक्ट"]
+author = "प्रांजल वर्मा"
 +++
 
 --------------------------------------------
 
-- [Pi Wallet]({{< ref "projects/pi_wallet.md" >}}) -  *Safely store your password with 2 layer encryption.* 
 
-- [Pi Connect]({{< ref "projects/pi_connect.md" >}}) -  *This is a python's flask based app for team/group chats.* 
-
-- [Ptorr API]({{< ref "projects/ptorr_api.md" >}}) -  *A RESTful API for torrents* 
+ - [टिप्पणी विषादता वर्गीकरण]({{<ref "/projects/comment_toxicity_classification.md" >}}) - *एक विषादता की भविष्यवाणी करने के लिए वर्गीकरण मॉडल।* -->
 
 
-- [Pi Bot]({{< ref "projects/pi_bot.md" >}}) - *A discord bot for competitive programmers.* +++
+- [पाई वॉलेट]({{<ref "projects/pi_wallet.md" >}}) - *2 स्तरीय एन्क्रिप्शन के साथ अपना पासवर्ड सुरक्षित रूप से स्टोर करें।*
 
+- [पाई कनेक्ट]({{<ref "projects/pi_connect.md" >}}) - *यह पाइथन की फ्लास्क आधारित एप्प टीम/समूह चैट के लिए है।*
 
+- [पीटोर एपीआई]({{<ref "projects/ptorr_api.md" >}}) - *टोरेंट्स के लिए एक RESTful एपीआई*
 
+- [पाई बॉट]({{<ref "projects/pi_bot.md" >}}) - *कॉम्पिटिटिव प्रोग्रामर्स के लिए एक डिस्कोर्ड बॉट।*
 
+अधिक के लिए मेरे [गिटहब](https://github.com/pvcodes) पर जाएं।  

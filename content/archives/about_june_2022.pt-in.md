@@ -1,11 +1,8 @@
 +++
-title = "About: June 2022"
+title = "About: जून 2022"
 date = "2022-12-03"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Pranjal Verma"
+aliases = ["हमारे बारे में", "हुगो के बारे में", "संपर्क"]
+author = "प्रांजल वर्मा"
 +++
 
-
-
-
-If you're here, it means you're trying to understand a little more about me, so to do it short here is my very concise description. I am a university student attending the course of `Bachelor in Computer Application` at `Integral university` (I'm currently in my third year). I am a very concise, pragmatic and calm guy ... no other adjectives come to mind. At the moment I don't have a lot of work experience, but I'm slowly accumulating it. Summary in brief: *a young resource still budding with a lot of curiosity and excellent skills*, and here is my [Resume]({{< ref "resume.md" >}}) 
+यदि आप यहाँ हैं, तो यह यहाँ पर थोड़ा और मुझे समझने की कोशिश कर रहे हैं, तो इसे छोटा करने के लिए यहाँ मेरा बहुत ही संक्षिप्त विवरण है। मैं एक विश्वविद्यालयी छात्र हूँ जो 'इंटीग्रल विश्वविद्यालय' में 'कंप्यूटर एप्लिकेशन में बैचलर' के कोर्स का पाठ्यक्रम कर रहा है (मैं वर्तमान में तीसरे वर्ष में हूँ)। मैं बहुत ही संक्षेपण, व्यावहारिक और शांत व्यक्ति हूँ... और अन्य कोई विशेषण मन में नहीं आते। वर्तमान में मेरे पास काम का बहुत अधिक अनुभव नहीं है, लेकिन मैं धीरे-धीरे इसे जमा कर रहा हूँ। संक्षेप में सारांश: *एक युवा स्रोत जो अभी भी बहुत सारी जिज्ञासा और उत्कृष्ट कौशलों के साथ निर्माता है*, और यहाँ है मेरा [रिज्यूमे]({{< ref "resume.md" >}})

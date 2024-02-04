@@ -1,14 +1,13 @@
 +++
-title = "Pi Bot"
+title = "पाई बॉट"
 date = "2019-03-05"
-description = "A discord bot for competitive programmers"
-tags = [ "pi_bot", "discord bot"]
-author = "Pranjal Verma"
+description = "कॉम्पिटिटिव प्रोग्रामर्स के लिए एक डिस्कोर्ड बॉट"
+tags = [ "पाई बॉट", "डिस्कोर्ड बॉट"]
+author = "प्रांजल वर्मा"
 +++
 
 ---------------------------------
 
-A discord bot based on Python, discord.py and a bunch of API such as codeforces API It's prior aim is to help Competitive Programmer, enhancing their problem solving skills. 
+पाई बॉट एक पाइथन, discord.py और कोडफोर्स एपीआई जैसे कई एपीआई पर आधारित एक डिस्कोर्ड बॉट है। इसका मुख्य उद्देश्य कॉम्पिटिटिव प्रोग्रामर की मदद करना है, उनकी समस्या समाधान कौशल को सुधारना।
 
-
-[Code](https://github.com/pvcodes/pi_bot)
+[कोड](https://github.com/pvcodes/pi_bot)

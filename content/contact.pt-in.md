@@ -1,9 +1,9 @@
 +++
-title = "Contact"
-aliases = ["contact"]
-author = "Pranjal Verma"
+title = "संपर्क"
+aliases = ["संपर्क"]
+author = "प्रांजल वर्मा"
 +++
 
 --------------------------------------------
 
-Send me hello [here](mailto:pvcodes@gmail.com), or my other social are linked [here](/).
+मुझे नमस्ते [यहाँ](mailto:pranjalverma0606@gmail.com) भेजें, या मेरे अन्य सोशल मीडिया खाते [यहाँ](/) पर लिंक किए गए हैं।
