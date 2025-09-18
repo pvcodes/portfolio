@@ -1,9 +1,2 @@
-/public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo.log
-hugo_stats.json
-.hugo_build.lock
-hugo.exe
-hugo.darwin
-hugo.linux
+public/
+resources/_gen/

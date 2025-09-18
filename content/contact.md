@@ -1,9 +1,17 @@
-+++
-title = "Contact"
-aliases = ["contact"]
-author = "Pranjal Verma"
-+++
+---
+title: Contact
+menu: "main"
+PublishDate: 2025-09-17
+---
 
---------------------------------------------
 
-Send me hello [here](mailto:pranjalverma0606@gmail.com), or my other social are linked [here](/).
+- Work: pranjal.b.verma at accenture.com
+- Personal: pvcodes at gmail.com
+
+
+### Social
+
+- [Twitter](https://twitter.com/undefined810)
+- [GitHub](https://github.com/pvcodes)
+- [LinkedIn](https://www.linkedin.com/in/pvcodes/)
+- [Leetcode](https://leetcode.com/u/pvcodes/)

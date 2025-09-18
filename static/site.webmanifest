@@ -1,0 +1,23 @@
+{
+  "name": "PV",
+  "short_name": "PV",
+  "description": "PV - A Progressive Web App",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#212121",
+  "background_color": "#212121",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}

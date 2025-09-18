@@ -1,0 +1,41 @@
+baseurl: "https://pvcodes.in/"
+title: "Pranjal Verma"
+copyright: "&copy; 2019&ndash;2025 Pranjal Verma"
+theme: literati
+defaultContentLanguage: en
+disableHugoGeneratorInject: true
+hasCJKLanguage: true
+pygmentsCodefences: true
+# enableGitInfo: true
+pygmentsUseClasses: true
+minify:
+  disableXML: true
+  minifyOutput: true
+sitemap:
+  filename: sitemap.xml
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - name: About
+      identifier: about
+      url: /
+    - name: CV
+      identifier: cv
+      url: https://pvcodes.s3.ap-south-1.amazonaws.com/docs/resume.pdf
+    - name: Blog
+      identifier: blog
+      url: /post/
+
+params:
+  author: Pranjal Verma
+  email: pvcodes
+  twitter: undefined810
+  github: pvcodes
+  description: "Personal website and blog of Pranjal Verma"
+  keywords: "Pranjal Verma, blog, programming, portfolio"
+  blogurl: "https://blog.pvcodes.in"
