@@ -2,7 +2,7 @@
 title: "Predicting Bitcoin Prices with Linear Regression: A Beginner-Friendly Guide"
 description: "Beginner's guide using linear regression to predict Bitcoin prices. Learn key concepts, model building, and testing with historical data"
 tags: ['ml', 'Machine Learning', 'AI', 'Artificial Intelligence', 'Linear Regression']
-date: 2025-09-19
+date: 2025-09-28
 params:
   math: true
 link: https://blog.pvcodes.in/bitcoin-price-prediction-linear-regression
