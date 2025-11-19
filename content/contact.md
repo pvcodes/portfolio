@@ -1,13 +1,12 @@
 ---
 title: Contact
 menu: "main"
-PublishDate: 2025-09-17
+PublishDate: 2025-11-19
 ---
 
 
 - Work: pranjal.b.verma at accenture.com
-- Personal: pvcodes at gmail.com
-
+- Personal: [hello@pvcodes.in](mailto:hello@pvcodes.in)
 
 ### Social
 
