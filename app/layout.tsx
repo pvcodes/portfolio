@@ -4,6 +4,7 @@ import { DM_Sans, JetBrains_Mono } from "next/font/google";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { siteConfig } from "@/lib/site-config";
+import { Analytics } from "@vercel/analytics/next"
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -65,6 +66,7 @@ export default function RootLayout({
       </head>
       <body className={`${dmSans.variable} ${jetbrainsMono.variable}`}>
         <Header />
+        <Analytics />
         <main className="main-content">
           <div className="container">{children}</div>
         </main>
