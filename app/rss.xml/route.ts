@@ -1,3 +1,5 @@
+export const dynamic = "force-static";
+
 import RSS from "rss";
 import { getAllPosts } from "@/lib/posts";
 import { siteConfig } from "@/lib/site-config";
