@@ -5,8 +5,8 @@ export const siteConfig = {
   author: "Pranjal Verma",
   currentLocation: "Pune, India",
   theme: {
-    toggleEnabled: false,
-    defaultTheme: "light" as "light" | "dark",
+    toggleEnabled: true,
+    defaultTheme: "dark" as "light" | "dark",
   },
 };
 
