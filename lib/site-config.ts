@@ -78,12 +78,12 @@ export const companies = [
     positions: [
       {
         title: "Data Engineer",
-        duration: "2024 - Present",
+        duration: "Sept 2024 - Present",
         current: true,
         points: [
-          "Designed and optimized scalable data pipelines for analytics and machine learning workloads.",
-          "Worked on real-time data processing using Kafka and Spark.",
-          "Built reliable, production-grade data architectures on cloud platforms.",
+          "Optimized BigQuery data warehouse on GCP with advanced partitioning and clustering — cutting query latency by 60% and operational costs by 35%.",
+          "Built real-time event-driven pipelines using Cloud Run, EventArc, and Apache Kafka to automate business workflows at scale.",
+          "Orchestrated ETL workflows with Apache Airflow delivering curated datasets to Elasticsearch, MySQL, PostgreSQL, and Kafka for live analytics.",
         ],
       },
     ],
@@ -93,18 +93,18 @@ export const companies = [
     url: "https://walkover.in",
     positions: [
       {
-        title: "Software Engineer",
-        duration: "2022 - 2024",
+        title: "Data Engineer",
+        duration: "Jan 2024 - Sept 2024",
         current: false,
         points: [
-          "Developed microservices and high-performance web applications.",
-          "Worked on backend systems supporting large-scale business operations.",
+          "Designed backend data infrastructure for a workflow automation platform in TypeScript and PostgreSQL, handling 10,000+ concurrent users.",
+          "Architected a fault-tolerant pipeline with RabbitMQ message queuing, boosting system throughput by 50% via async processing.",
+          "Improved data retrieval performance by 30% through batched access patterns and lazy-loading strategies across high-traffic database operations.",
         ],
       },
     ],
   },
 ];
-
 export const education = [
   {
     degree: "Master of Computer Applications (MCA)",
@@ -124,11 +124,27 @@ export const education = [
 export const footerLinks = [
   { text: "GitHub", url: "https://github.com/pvcodes" },
   { text: "LinkedIn", url: "https://www.linkedin.com/in/pvcodes/" },
-  { text: "Twitter", url: "https://twitter.com/undefined810" },
+  { text: "Twitter", url: "https://twitter.com/pvcodes" },
   { text: "RSS", url: "/rss.xml" },
 ];
 
 export const projects = [
+  {
+    name: "VLR Analytics",
+    description:
+      "End-to-end data pipeline scraping VLR.gg to surface advanced VALORANT esports metrics — player performance trends, team compositions, map win rates, and more. Built for analysts and betting researchers who need signal beyond the box score.",
+    url: "https://github.com/pvcodes/vlr-analytics",
+    tags: ["ETL Pipeline", "Airflow", "Terraform", "Google Cloud", "Pyspark"],
+    openSource: true,
+  },
+  {
+    name: "LLMify",
+    description:
+      "A multi-model LLM chatbot platform supporting different large language models with a unified chat interface.",
+    url: "https://llmify.vercel.app",
+    tags: ["LLM", "SaaS", "Chatbot", "AI"],
+    openSource: false,
+  },
   {
     name: "Kidney Stone Risk Prediction Research",
     description:
@@ -144,13 +160,5 @@ export const projects = [
     url: "https://github.com/pvcodes/ERDiagram-To-Schema",
     tags: ["LLMs", "Computer Vision", "Databases", "Qwen", "AI"],
     openSource: true,
-  },
-  {
-    name: "LLMify",
-    description:
-      "A multi-model LLM chatbot platform supporting different large language models with a unified chat interface.",
-    url: "https://llmify.xyz",
-    tags: ["LLM", "SaaS", "Chatbot", "AI"],
-    openSource: false,
   },
 ];
