@@ -15,7 +15,7 @@ export const navigation = [
   { name: "Blog", url: "/blog/" },
   {
     name: "CV",
-    url: "https://pvcodes.s3.ap-south-1.amazonaws.com/docs/resume.pdf",
+    url: "https://drive.google.com/file/d/12uTM-CS_uZ2hCQ9sRz-L1aY69GJfWHmH/view?usp=sharing",
     newTab: true,
   },
 ];
