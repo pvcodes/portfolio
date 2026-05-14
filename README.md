@@ -1,74 +1,38 @@
-# Personal Website & Blog
+# Pranjal Verma - Data Engineer
 
-A modern, responsive personal website and blog built with [Next.js](https://nextjs.org/). Features a clean design, blog functionality with MDX support, and automated GitHub Pages deployment.
+A personal website and blog showcasing my work in data engineering, built with [Next.js](https://nextjs.org/).
 
-## Live Site
+## About Me
 
-[https://yashagw.github.io/](https://yashagw.github.io/)
+Data Engineer at Accenture in Pune, specializing in building scalable data pipelines, real-time processing systems, and distributed architectures. I work with Kafka, Spark, Airflow, and BigQuery to build production-ready data solutions.
 
-## Quick Start Guide
+## Tech Stack
 
-### 1. Clone and Setup
+- **Languages:** Python, SQL, JavaScript, TypeScript
+- **Data:** Apache Kafka, Apache Spark, Apache Airflow, BigQuery
+- **Cloud:** GCP, AWS
+- **DevOps:** Docker, Kubernetes
 
-```bash
-git clone https://github.com/yashagw/yashagw.github.io.git
-cd yashagw.github.io
-```
-
-### 2. Install Dependencies
+## Quick Start
 
 ```bash
+git clone https://github.com/pvcodes/portfolio-v2.git
+cd portfolio-v2
 npm install
-```
-
-### 3. Run Development Server
-
-```bash
 npm run dev
-# Visit http://localhost:3000
 ```
 
-### 4. Add Blog Posts
+## Projects
 
-Create new posts in `content/blog/` as Markdown files:
+- [VLR Analytics](https://github.com/pvcodes/vlr-analytics) - ETL pipeline for VALORANT esports data
+- [LLMify](https://llmify.vercel.app) - Multi-model LLM chatbot platform
+- [Kidney Stone Risk Prediction](https://github.com/pvcodes/Kidney-Stone-Risk-Prediction-Research) - ML healthcare research
+- [ERDiagram to JSON](https://github.com/pvcodes/ERDiagram-To-Schema) - Fine-tuned Qwen2.5-VL model
 
-```markdown
-+++
-title = "Your Blog Post Title"
-date = 2024-01-15
-taxonomies = { tags = ["tag1", "tag2"] }
-+++
+## Links
 
-Your content here...
-```
-
-### 5. Build for Production
-
-```bash
-npm run build
-```
-
-## Deployment
-
-1. **Fork this repository** and rename to `yourusername.github.io`
-2. **Enable GitHub Pages** in repository settings → Pages → Source: "GitHub Actions"
-3. **Push to main branch** - the included workflow will auto-deploy
-
-## Project Structure
-
-- `app/` - Next.js App Router pages and layouts
-- `components/` - React components
-- `content/blog/` - Blog posts (Markdown)
-- `lib/` - Utility functions
-- `public/` - Static assets (images, icons)
-
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
-
-## Contributing
-
-Fork and use as a template for your own site!
+- Website: [pvcodes.in](https://pvcodes.in)
+- Blog: [blog.pvcodes.in](https://blog.pvcodes.in)
+- GitHub: [github.com/pvcodes](https://github.com/pvcodes)
+- LinkedIn: [linkedin.com/in/pvcodes](https://www.linkedin.com/in/pvcodes/)
+- Twitter: [@pvcodes](https://twitter.com/pvcodes)
