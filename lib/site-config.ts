@@ -15,7 +15,7 @@ export const navigation = [
   { name: "Blog", url: "/blog/" },
   {
     name: "CV",
-    url: "https://drive.google.com/file/d/10apQsEh3g9DxeJ8JgLvQ5OqDyJ1kXlAY/view?usp=sharing",
+    url: "https://drive.google.com/file/d/1eiapS0IsWWYdxHTE5DTrGmsFb0jcQJUm/view?usp=sharing",
     newTab: true,
   },
 ];
