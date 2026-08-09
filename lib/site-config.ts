@@ -15,7 +15,7 @@ export const navigation = [
   { name: "Blog", url: "/blog/" },
   {
     name: "CV",
-    url: "resume-worker.pranjalverma0606.workers.dev",
+    url: "https://resume-worker.pranjalverma0606.workers.dev",
     newTab: true,
   },
 ];
