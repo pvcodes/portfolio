@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/cv",
+            "destination": "https://resume-worker.pranjalverma0606.workers.dev",
+            "permanent": false
+        }
+    ]
+}
