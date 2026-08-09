@@ -15,13 +15,14 @@ export const navigation = [
   { name: "Blog", url: "/blog/" },
   {
     name: "CV",
-    url: "https://drive.google.com/file/d/1eiapS0IsWWYdxHTE5DTrGmsFb0jcQJUm/view?usp=sharing",
+    url: "resume-worker.pranjalverma0606.workers.dev",
     newTab: true,
   },
 ];
 export const introParagraphs = [
-  "I'm Pranjal Verma, a Data Engineer at Accenture in Pune, working on scalable data pipelines, real-time processing, and distributed systems.",
-  "I specialize in building production-ready data architectures using Kafka, Spark, Airflow, and BigQuery. I also enjoy automation, cloud-native systems, and writing about data-driven solutions at [https://blog.pvcodes.in]{blog.pvcodes.in}.",
+  "I'm Pranjal Verma, a Data Engineer at Accenture in Pune, specializing in building scalable ETL/ELT pipelines, distributed data processing systems, and cloud-native data solutions.",
+
+  "I work primarily with Python, SQL, PySpark, Apache Spark, Airflow, and AWS, with a focus on data pipelines, automation, and reliable data architectures. I also enjoy building open-source projects and writing about data engineering at [https://blog.pvcodes.in]{blog.pvcodes.in}.",
 ];
 
 export const contactLinks = [
@@ -81,30 +82,30 @@ export const companies = [
         duration: "Sept 2024 - Present",
         current: true,
         points: [
-          "Optimized BigQuery data warehouse on GCP with advanced partitioning and clustering — cutting query latency by 60% and operational costs by 35%.",
-          "Built real-time event-driven pipelines using Cloud Run, EventArc, and Apache Kafka to automate business workflows at scale.",
-          "Orchestrated ETL workflows with Apache Airflow delivering curated datasets to Elasticsearch, MySQL, PostgreSQL, and Kafka for live analytics.",
+          "Built scalable ETL/ELT pipelines using AWS Glue, PySpark, and Apache Airflow for reliable data processing and analytics.",
+          "Optimized distributed Spark workloads on Amazon EMR, increasing pipeline throughput by 3x through partitioning, cluster sizing, and Parquet optimization.",
         ],
       },
     ],
   },
+
   {
     name: "Walkover",
     url: "https://walkover.in",
     positions: [
       {
-        title: "Data Engineer",
+        title: "Software Developer Intern",
         duration: "Jan 2024 - Sept 2024",
         current: false,
         points: [
-          "Designed backend data infrastructure for a workflow automation platform in TypeScript and PostgreSQL, handling 10,000+ concurrent users.",
-          "Architected a fault-tolerant pipeline with RabbitMQ message queuing, boosting system throughput by 50% via async processing.",
-          "Improved data retrieval performance by 30% through batched access patterns and lazy-loading strategies across high-traffic database operations.",
+          "Developed backend services and REST APIs using Node.js, Express, PostgreSQL, and MongoDB for production applications.",
+          "Implemented asynchronous workflows and optimized database operations to improve backend performance and reliability.",
         ],
       },
     ],
   },
 ];
+
 export const education = [
   {
     degree: "Master of Computer Applications (MCA)",
@@ -132,9 +133,9 @@ export const projects = [
   {
     name: "VLR Analytics",
     description:
-      "End-to-end data pipeline scraping VLR.gg to surface advanced VALORANT esports metrics — player performance trends, team compositions, map win rates, and more. Built for analysts and betting researchers who need signal beyond the box score.",
+      "End-to-end cloud data pipeline for scraping and transforming VALORANT esports data using a Medallion Architecture, enabling analytics on player performance, team compositions, and map statistics.",
     url: "https://github.com/pvcodes/vlr-analytics",
-    tags: ["ETL Pipeline", "Airflow", "Terraform", "Google Cloud", "Pyspark"],
+    tags: ["ETL Pipeline", "AWS", "PySpark", "Airflow", "Terraform"],
     openSource: true,
   },
   {
