@@ -50,3 +50,6 @@ Thumbs.db
 *.log
 .claude/
 .env*.local
+.dual-graph/
+AGENTS.md
+opencode.json

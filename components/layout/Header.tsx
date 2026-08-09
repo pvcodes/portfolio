@@ -30,25 +30,15 @@ export default function Header() {
           </h1>
           <nav className="main-nav">
             {navigation.map((item) =>
-              item.newTab ? (
-                <a
-                  key={item.name}
-                  href={item.url}
-                  className="nav-item"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {item.name}
-                </a>
-              ) : (
-                <Link
-                  key={item.name}
-                  href={item.url}
-                  className={`nav-item ${isActive(item.url) ? "active" : ""}`}
-                >
-                  {item.name}
-                </Link>
-              )
+              <Link
+                key={item.name}
+                href={item.url}
+                className={`nav-item ${isActive(item.url) ? "active" : ""}`}
+                rel={item.newTab ? 'noopener noreferrer' : undefined}
+                target={item.newTab ? '_blank' : undefined}
+              >
+                {item.name}
+              </Link>
             )}
             <ThemeToggle />
           </nav>
