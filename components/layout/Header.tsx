@@ -30,15 +30,16 @@ export default function Header() {
           </h1>
           <nav className="main-nav">
             {navigation.map((item) =>
-              <Link
-                key={item.name}
-                href={item.url}
-                className={`nav-item ${isActive(item.url) ? "active" : ""}`}
-                rel={item.newTab ? 'noopener noreferrer' : undefined}
-                target={item.newTab ? '_blank' : undefined}
-              >
-                {item.name}
-              </Link>
+              item.url == '/cv' ? <a href='/cv'>CV</a> :
+                <Link
+                  key={item.name}
+                  href={item.url}
+                  className={`nav-item ${isActive(item.url) ? "active" : ""}`}
+                  rel={item.newTab ? 'noopener noreferrer' : undefined}
+                  target={item.newTab ? '_blank' : undefined}
+                >
+                  {item.name}
+                </Link>
             )}
             <ThemeToggle />
           </nav>
