@@ -1,6 +1,6 @@
 +++
 title = "Apache Iceberg: The Backbone of the Modern Open Lakehouse"
-date = 2026-08-12
+date = 2026-08-23
 taxonomies = { tags = ["spark", "data-engineering", "apache-iceberg", "lakehouse", "airflow"] }
 description = "How Apache Iceberg's snapshots, catalogs, and maintenance routines power a fast multi-engine lakehouse — with Spark config and an Airflow DAG"
 link = "https://blog.pvcodes.in/apache-iceberg-the-backbone-of-the-modern-open-lakehouse"
