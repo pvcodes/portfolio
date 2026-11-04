@@ -22,7 +22,7 @@ export const navigation = [
 export const introParagraphs = [
   "I'm Pranjal Verma, a Data Engineer at Accenture in Pune, specializing in building scalable ETL/ELT pipelines, distributed data processing systems, and cloud-native data solutions.",
 
-  "I work primarily with Python, SQL, PySpark, Apache Spark, Airflow, and AWS, with a focus on data pipelines, automation, and reliable data architectures. I also enjoy building open-source projects and writing about data engineering at [https://blog.pvcodes.in]{blog.pvcodes.in}.",
+  "I work primarily with Python, SQL, PySpark, Apache Spark, Airflow, and cloud solutions, with a focus on data pipelines, automation, and reliable data architectures. I also enjoy building open-source projects and writing about data engineering at [https://blog.pvcodes.in]{blog.pvcodes.in}.",
 ];
 
 export const contactLinks = [
@@ -94,7 +94,7 @@ export const companies = [
     url: "https://walkover.in",
     positions: [
       {
-        title: "Software Developer Intern",
+        title: "Software Engineer Intern",
         duration: "Jan 2024 - Sept 2024",
         current: false,
         points: [
@@ -135,31 +135,31 @@ export const projects = [
     description:
       "End-to-end cloud data pipeline for scraping and transforming VALORANT esports data using a Medallion Architecture, enabling analytics on player performance, team compositions, and map statistics.",
     url: "https://github.com/pvcodes/vlr-analytics",
-    tags: ["ETL Pipeline", "AWS", "PySpark", "Airflow", "Terraform"],
+    tags: ["ETL Pipeline", "GCP", "PySpark", "Airflow", "Terraform"],
     openSource: true,
   },
-  {
-    name: "LLMify",
-    description:
-      "A multi-model LLM chatbot platform supporting different large language models with a unified chat interface.",
-    url: "https://llmify.vercel.app",
-    tags: ["LLM", "SaaS", "Chatbot", "AI"],
-    openSource: false,
-  },
-  {
-    name: "Kidney Stone Risk Prediction Research",
-    description:
-      "A predictive research model that identifies kidney stone risk by analyzing individual health factors such as high blood pressure and dietary saturated fatty acid intake.",
-    url: "https://github.com/pvcodes/Kidney-Stone-Risk-Prediction-Research",
-    tags: ["Machine Learning", "Healthcare", "Research", "Python"],
-    openSource: true,
-  },
-  {
-    name: "ERDiagram to JSON",
-    description:
-      "A fine-tuned Qwen2.5-VL model that converts database ER diagrams into structured JSON schemas, achieving 89.2% table accuracy and 90% relationship accuracy—outperforming the base model.",
-    url: "https://github.com/pvcodes/ERDiagram-To-Schema",
-    tags: ["LLMs", "Computer Vision", "Databases", "Qwen", "AI"],
-    openSource: true,
-  },
+  // {
+  //   name: "LLMify",
+  //   description:
+  //     "A multi-model LLM chatbot platform supporting different large language models with a unified chat interface.",
+  //   url: "https://llmify.vercel.app",
+  //   tags: ["LLM", "SaaS", "Chatbot", "AI"],
+  //   openSource: false,
+  // },
+  // {
+  //   name: "Kidney Stone Risk Prediction Research",
+  //   description:
+  //     "A predictive research model that identifies kidney stone risk by analyzing individual health factors such as high blood pressure and dietary saturated fatty acid intake.",
+  //   url: "https://github.com/pvcodes/Kidney-Stone-Risk-Prediction-Research",
+  //   tags: ["Machine Learning", "Healthcare", "Research", "Python"],
+  //   openSource: true,
+  // },
+  // {
+  //   name: "ERDiagram to JSON",
+  //   description:
+  //     "A fine-tuned Qwen2.5-VL model that converts database ER diagrams into structured JSON schemas, achieving 89.2% table accuracy and 90% relationship accuracy—outperforming the base model.",
+  //   url: "https://github.com/pvcodes/ERDiagram-To-Schema",
+  //   tags: ["LLMs", "Computer Vision", "Databases", "Qwen", "AI"],
+  //   openSource: true,
+  // },
 ];
