@@ -1,8 +1,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
   images: {
     unoptimized: true,
+  },
+  async redirects() {
+    return [
+      {
+        source: '/cv',
+        destination: '/resume.pdf',
+        permanent: false,
+      },
+    ];
   },
 };
 
